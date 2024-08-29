@@ -17,7 +17,7 @@ function elFinderAutoloader($name)
         'elFinderPluginWatermark' => 'plugins/Watermark/plugin.php',
         'elFinderSession' => 'elFinderSession.php',
         'elFinderSessionInterface' => 'elFinderSessionInterface.php',
-        // 'elFinderVolumeDriver' => 'elFinderVolumeDriver.class.php',
+        'elFinderVolumeDriver' => 'elFinderVolumeDriver.class.php',
         // 'elFinderVolumeDropbox2' => 'elFinderVolumeDropbox2.class.php',
         // 'elFinderVolumeFTP' => 'elFinderVolumeFTP.class.php',
         // 'elFinderVolumeFlysystemGoogleDriveCache' => 'elFinderFlysystemGoogleDriveNetmount.php',
